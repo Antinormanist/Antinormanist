@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, programming and hard tasks
 - 🌱 I’m currently learning framework Django and algorithms
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me katya.goryacheva.2009@gmail.com (yes, I use my mom's old email)
+- 📫 How to reach me katya.goryacheva.2009@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Further - more
 
