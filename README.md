@@ -5,4 +5,3 @@
 - 🤔 I’m looking for help with jobless
 - 📫 How to reach me: antinormanisto@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I do hate greedy algorithms
